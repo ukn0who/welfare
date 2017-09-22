@@ -1,0 +1,323 @@
+14:31:49 > [TBassSource: DC-Bass Source] CREATE
+14:31:49 > [TBassSourceStream: Bass Source Stream] CREATE
+14:31:49 > TBCEnumMediaTypes.Create
+14:31:49 > TBCEnumMediaTypes.Destroy
+14:31:49 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:31:49 > Object: Bass Source Stream, msg:     <Output>.
+14:31:49 > Object: Bass Source Stream, msg:     <In>.
+14:31:49 > TBCEnumMediaTypes.Create
+14:31:49 > Object: Bass Source Stream, msg: Trying media type:.
+14:31:49 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:31:49 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:31:49 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 44100 Hertz, 16 Bits, 2 Channels.
+14:31:49 > TBCEnumMediaTypes.Destroy
+14:31:49 > Object: Bass Source Stream, msg: Failed to agree type.
+14:31:50 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:31:50 > Object: Bass Source Stream, msg:     <Output>.
+14:31:50 > Object: Bass Source Stream, msg:     <In>.
+14:31:50 > TBCEnumMediaTypes.Create
+14:31:50 > Object: Bass Source Stream, msg: Trying media type:.
+14:31:50 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:31:50 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:31:50 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 44100 Hertz, 16 Bits, 2 Channels.
+14:31:50 > TBCEnumMediaTypes.Destroy
+14:31:50 > Object: Bass Source Stream, msg: Failed to agree type.
+14:31:50 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:31:50 > Object: Bass Source Stream, msg:     <Output>.
+14:31:50 > Object: Bass Source Stream, msg:     <Video>.
+14:31:50 > TBCEnumMediaTypes.Create
+14:31:50 > Object: Bass Source Stream, msg: Trying media type:.
+14:31:50 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:31:50 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:31:50 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 44100 Hertz, 16 Bits, 2 Channels.
+14:31:50 > TBCEnumMediaTypes.Destroy
+14:31:50 > Object: Bass Source Stream, msg: Failed to agree type.
+14:31:50 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:31:50 > Object: Bass Source Stream, msg:     <Output>.
+14:31:50 > Object: Bass Source Stream, msg:     <Input>.
+14:31:50 > TBCEnumMediaTypes.Create
+14:31:50 > Object: Bass Source Stream, msg: Trying media type:.
+14:31:50 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:31:50 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:31:50 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 44100 Hertz, 16 Bits, 2 Channels.
+14:31:50 > TBCEnumMediaTypes.Destroy
+14:31:50 > Object: Bass Source Stream, msg: Failed to agree type.
+14:31:50 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:31:50 > Object: Bass Source Stream, msg:     <Output>.
+14:31:50 > Object: Bass Source Stream, msg:     <Audio Input pin (rendered)>.
+14:31:50 > Object: Bass Source Stream, msg: Trying media type:.
+14:31:50 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:31:50 > Object: Bass Source Stream, msg:     sub type  :  {00000000-0000-0000-0000-000000000000}.
+14:31:50 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: UnKnown  Format: Unknown.
+14:31:50 > TBCEnumMediaTypes.Create
+14:31:50 > Object: Bass Source Stream, msg: Trying media type:.
+14:31:50 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:31:50 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:31:50 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 44100 Hertz, 16 Bits, 2 Channels.
+14:31:50 > TBCEnumMediaTypes.Destroy
+14:31:50 > Object: Bass Source Stream, msg: Connection succeeded.
+14:31:50 > Object: Bass Source Stream, msg: Worker thread initializing.
+14:32:00 > Object: Bass Source Stream, msg: worker thread exiting.
+FactoryCount: 0, ObjectCount: 2.
+14:32:17 > [TBassSource: DC-Bass Source] CREATE
+14:32:17 > [TBassSourceStream: Bass Source Stream] CREATE
+14:32:17 > TBCEnumMediaTypes.Create
+14:32:17 > TBCEnumMediaTypes.Destroy
+14:32:17 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:32:17 > Object: Bass Source Stream, msg:     <Output>.
+14:32:17 > Object: Bass Source Stream, msg:     <In>.
+14:32:17 > TBCEnumMediaTypes.Create
+14:32:17 > Object: Bass Source Stream, msg: Trying media type:.
+14:32:17 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:32:17 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:32:17 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 44100 Hertz, 16 Bits, 2 Channels.
+14:32:17 > TBCEnumMediaTypes.Destroy
+14:32:17 > Object: Bass Source Stream, msg: Failed to agree type.
+14:32:17 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:32:17 > Object: Bass Source Stream, msg:     <Output>.
+14:32:17 > Object: Bass Source Stream, msg:     <In>.
+14:32:17 > TBCEnumMediaTypes.Create
+14:32:17 > Object: Bass Source Stream, msg: Trying media type:.
+14:32:17 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:32:17 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:32:17 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 44100 Hertz, 16 Bits, 2 Channels.
+14:32:17 > TBCEnumMediaTypes.Destroy
+14:32:17 > Object: Bass Source Stream, msg: Failed to agree type.
+14:32:17 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:32:17 > Object: Bass Source Stream, msg:     <Output>.
+14:32:17 > Object: Bass Source Stream, msg:     <Video>.
+14:32:17 > TBCEnumMediaTypes.Create
+14:32:17 > Object: Bass Source Stream, msg: Trying media type:.
+14:32:17 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:32:17 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:32:17 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 44100 Hertz, 16 Bits, 2 Channels.
+14:32:17 > TBCEnumMediaTypes.Destroy
+14:32:17 > Object: Bass Source Stream, msg: Failed to agree type.
+14:32:17 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:32:17 > Object: Bass Source Stream, msg:     <Output>.
+14:32:17 > Object: Bass Source Stream, msg:     <Input>.
+14:32:17 > TBCEnumMediaTypes.Create
+14:32:17 > Object: Bass Source Stream, msg: Trying media type:.
+14:32:17 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:32:17 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:32:17 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 44100 Hertz, 16 Bits, 2 Channels.
+14:32:17 > TBCEnumMediaTypes.Destroy
+14:32:17 > Object: Bass Source Stream, msg: Failed to agree type.
+14:32:17 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:32:17 > Object: Bass Source Stream, msg:     <Output>.
+14:32:17 > Object: Bass Source Stream, msg:     <Audio Input pin (rendered)>.
+14:32:17 > Object: Bass Source Stream, msg: Trying media type:.
+14:32:17 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:32:17 > Object: Bass Source Stream, msg:     sub type  :  {00000000-0000-0000-0000-000000000000}.
+14:32:17 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: UnKnown  Format: Unknown.
+14:32:17 > TBCEnumMediaTypes.Create
+14:32:17 > Object: Bass Source Stream, msg: Trying media type:.
+14:32:17 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:32:17 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:32:17 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 44100 Hertz, 16 Bits, 2 Channels.
+14:32:17 > TBCEnumMediaTypes.Destroy
+14:32:17 > Object: Bass Source Stream, msg: Connection succeeded.
+14:32:17 > Object: Bass Source Stream, msg: Worker thread initializing.
+14:32:27 > Object: Bass Source Stream, msg: worker thread exiting.
+FactoryCount: 0, ObjectCount: 2.
+14:34:09 > [TBassSource: DC-Bass Source] CREATE
+14:34:09 > [TBassSourceStream: Bass Source Stream] CREATE
+14:34:09 > TBCEnumMediaTypes.Create
+14:34:09 > TBCEnumMediaTypes.Destroy
+14:34:09 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:34:09 > Object: Bass Source Stream, msg:     <Output>.
+14:34:09 > Object: Bass Source Stream, msg:     <In>.
+14:34:09 > TBCEnumMediaTypes.Create
+14:34:09 > Object: Bass Source Stream, msg: Trying media type:.
+14:34:09 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:34:09 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:34:09 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+14:34:09 > TBCEnumMediaTypes.Destroy
+14:34:09 > Object: Bass Source Stream, msg: Failed to agree type.
+14:34:09 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:34:09 > Object: Bass Source Stream, msg:     <Output>.
+14:34:09 > Object: Bass Source Stream, msg:     <In>.
+14:34:09 > TBCEnumMediaTypes.Create
+14:34:09 > Object: Bass Source Stream, msg: Trying media type:.
+14:34:09 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:34:09 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:34:09 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+14:34:09 > TBCEnumMediaTypes.Destroy
+14:34:09 > Object: Bass Source Stream, msg: Failed to agree type.
+14:34:09 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:34:09 > Object: Bass Source Stream, msg:     <Output>.
+14:34:09 > Object: Bass Source Stream, msg:     <Video>.
+14:34:09 > TBCEnumMediaTypes.Create
+14:34:09 > Object: Bass Source Stream, msg: Trying media type:.
+14:34:09 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:34:09 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:34:09 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+14:34:09 > TBCEnumMediaTypes.Destroy
+14:34:09 > Object: Bass Source Stream, msg: Failed to agree type.
+14:34:09 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:34:09 > Object: Bass Source Stream, msg:     <Output>.
+14:34:09 > Object: Bass Source Stream, msg:     <Input>.
+14:34:09 > TBCEnumMediaTypes.Create
+14:34:09 > Object: Bass Source Stream, msg: Trying media type:.
+14:34:09 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:34:09 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:34:09 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+14:34:09 > TBCEnumMediaTypes.Destroy
+14:34:09 > Object: Bass Source Stream, msg: Failed to agree type.
+14:34:09 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:34:09 > Object: Bass Source Stream, msg:     <Output>.
+14:34:09 > Object: Bass Source Stream, msg:     <Audio Input pin (rendered)>.
+14:34:09 > Object: Bass Source Stream, msg: Trying media type:.
+14:34:09 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:34:09 > Object: Bass Source Stream, msg:     sub type  :  {00000000-0000-0000-0000-000000000000}.
+14:34:09 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: UnKnown  Format: Unknown.
+14:34:09 > TBCEnumMediaTypes.Create
+14:34:09 > Object: Bass Source Stream, msg: Trying media type:.
+14:34:09 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:34:09 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:34:09 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+14:34:09 > TBCEnumMediaTypes.Destroy
+14:34:09 > Object: Bass Source Stream, msg: Connection succeeded.
+14:34:09 > Object: Bass Source Stream, msg: Worker thread initializing.
+14:34:27 > Deliver() returned 80040227; stopping
+14:34:27 > Object: Bass Source Stream, msg: worker thread exiting.
+14:34:27 > Object: Bass Source Stream, msg: Worker thread initializing.
+14:34:27 > Deliver() returned 80040227; stopping
+14:34:27 > Object: Bass Source Stream, msg: worker thread exiting.
+14:34:27 > Object: Bass Source Stream, msg: Worker thread initializing.
+14:34:27 > Deliver() returned 80040227; stopping
+14:34:27 > Object: Bass Source Stream, msg: worker thread exiting.
+14:34:27 > Object: Bass Source Stream, msg: Worker thread initializing.
+14:34:27 > Deliver() returned 80040227; stopping
+14:34:27 > Object: Bass Source Stream, msg: worker thread exiting.
+14:34:27 > Object: Bass Source Stream, msg: Worker thread initializing.
+14:34:28 > Deliver() returned 80040227; stopping
+14:34:28 > Object: Bass Source Stream, msg: worker thread exiting.
+14:34:30 > Object: Bass Source Stream, msg: Worker thread initializing.
+14:34:30 > Deliver() returned 80040227; stopping
+14:34:30 > Object: Bass Source Stream, msg: worker thread exiting.
+14:34:30 > Object: Bass Source Stream, msg: Worker thread initializing.
+14:34:30 > Deliver() returned 80040227; stopping
+14:34:30 > Object: Bass Source Stream, msg: worker thread exiting.
+14:34:30 > Object: Bass Source Stream, msg: Worker thread initializing.
+FactoryCount: 0, ObjectCount: 2.
+14:36:05 > [TBassSource: DC-Bass Source] CREATE
+14:36:05 > [TBassSourceStream: Bass Source Stream] CREATE
+14:36:05 > TBCEnumMediaTypes.Create
+14:36:05 > TBCEnumMediaTypes.Destroy
+14:36:05 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:36:05 > Object: Bass Source Stream, msg:     <Output>.
+14:36:05 > Object: Bass Source Stream, msg:     <In>.
+14:36:05 > TBCEnumMediaTypes.Create
+14:36:05 > Object: Bass Source Stream, msg: Trying media type:.
+14:36:05 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:36:05 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:36:05 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+14:36:05 > TBCEnumMediaTypes.Destroy
+14:36:05 > Object: Bass Source Stream, msg: Failed to agree type.
+14:36:05 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:36:05 > Object: Bass Source Stream, msg:     <Output>.
+14:36:05 > Object: Bass Source Stream, msg:     <In>.
+14:36:05 > TBCEnumMediaTypes.Create
+14:36:05 > Object: Bass Source Stream, msg: Trying media type:.
+14:36:05 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:36:05 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:36:05 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+14:36:05 > TBCEnumMediaTypes.Destroy
+14:36:05 > Object: Bass Source Stream, msg: Failed to agree type.
+14:36:05 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:36:05 > Object: Bass Source Stream, msg:     <Output>.
+14:36:05 > Object: Bass Source Stream, msg:     <Video>.
+14:36:05 > TBCEnumMediaTypes.Create
+14:36:05 > Object: Bass Source Stream, msg: Trying media type:.
+14:36:05 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:36:05 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:36:05 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+14:36:05 > TBCEnumMediaTypes.Destroy
+14:36:05 > Object: Bass Source Stream, msg: Failed to agree type.
+14:36:05 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:36:05 > Object: Bass Source Stream, msg:     <Output>.
+14:36:05 > Object: Bass Source Stream, msg:     <Input>.
+14:36:05 > TBCEnumMediaTypes.Create
+14:36:05 > Object: Bass Source Stream, msg: Trying media type:.
+14:36:05 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:36:05 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:36:05 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+14:36:05 > TBCEnumMediaTypes.Destroy
+14:36:05 > Object: Bass Source Stream, msg: Failed to agree type.
+14:36:05 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+14:36:05 > Object: Bass Source Stream, msg:     <Output>.
+14:36:05 > Object: Bass Source Stream, msg:     <Audio Input pin (rendered)>.
+14:36:05 > Object: Bass Source Stream, msg: Trying media type:.
+14:36:05 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:36:05 > Object: Bass Source Stream, msg:     sub type  :  {00000000-0000-0000-0000-000000000000}.
+14:36:05 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: UnKnown  Format: Unknown.
+14:36:05 > TBCEnumMediaTypes.Create
+14:36:05 > Object: Bass Source Stream, msg: Trying media type:.
+14:36:05 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+14:36:05 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+14:36:05 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+14:36:05 > TBCEnumMediaTypes.Destroy
+14:36:05 > Object: Bass Source Stream, msg: Connection succeeded.
+14:36:05 > Object: Bass Source Stream, msg: Worker thread initializing.
+FactoryCount: 0, ObjectCount: 2.
+17:45:11 > [TBassSource: DC-Bass Source] CREATE
+17:45:11 > [TBassSourceStream: Bass Source Stream] CREATE
+17:45:11 > TBCEnumMediaTypes.Create
+17:45:11 > TBCEnumMediaTypes.Destroy
+17:45:11 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+17:45:11 > Object: Bass Source Stream, msg:     <Output>.
+17:45:11 > Object: Bass Source Stream, msg:     <In>.
+17:45:11 > TBCEnumMediaTypes.Create
+17:45:11 > Object: Bass Source Stream, msg: Trying media type:.
+17:45:11 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+17:45:11 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+17:45:11 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+17:45:11 > TBCEnumMediaTypes.Destroy
+17:45:11 > Object: Bass Source Stream, msg: Failed to agree type.
+17:45:12 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+17:45:12 > Object: Bass Source Stream, msg:     <Output>.
+17:45:12 > Object: Bass Source Stream, msg:     <In>.
+17:45:12 > TBCEnumMediaTypes.Create
+17:45:12 > Object: Bass Source Stream, msg: Trying media type:.
+17:45:12 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+17:45:12 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+17:45:12 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+17:45:12 > TBCEnumMediaTypes.Destroy
+17:45:12 > Object: Bass Source Stream, msg: Failed to agree type.
+17:45:12 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+17:45:12 > Object: Bass Source Stream, msg:     <Output>.
+17:45:12 > Object: Bass Source Stream, msg:     <Video>.
+17:45:12 > TBCEnumMediaTypes.Create
+17:45:12 > Object: Bass Source Stream, msg: Trying media type:.
+17:45:12 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+17:45:12 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+17:45:12 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+17:45:12 > TBCEnumMediaTypes.Destroy
+17:45:12 > Object: Bass Source Stream, msg: Failed to agree type.
+17:45:12 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+17:45:12 > Object: Bass Source Stream, msg:     <Output>.
+17:45:12 > Object: Bass Source Stream, msg:     <Input>.
+17:45:12 > TBCEnumMediaTypes.Create
+17:45:12 > Object: Bass Source Stream, msg: Trying media type:.
+17:45:12 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+17:45:12 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+17:45:12 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+17:45:12 > TBCEnumMediaTypes.Destroy
+17:45:12 > Object: Bass Source Stream, msg: Failed to agree type.
+17:45:12 > Object: Bass Source Stream, msg: Trying to connect Pins :.
+17:45:12 > Object: Bass Source Stream, msg:     <Output>.
+17:45:12 > Object: Bass Source Stream, msg:     <Audio Input pin (rendered)>.
+17:45:12 > Object: Bass Source Stream, msg: Trying media type:.
+17:45:12 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+17:45:12 > Object: Bass Source Stream, msg:     sub type  :  {00000000-0000-0000-0000-000000000000}.
+17:45:12 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: UnKnown  Format: Unknown.
+17:45:12 > TBCEnumMediaTypes.Create
+17:45:12 > Object: Bass Source Stream, msg: Trying media type:.
+17:45:12 > Object: Bass Source Stream, msg:     major type:  {73647561-0000-0010-8000-00AA00389B71}.
+17:45:12 > Object: Bass Source Stream, msg:     sub type  :  {00000001-0000-0010-8000-00AA00389B71}.
+17:45:12 > Object: Bass Source Stream, msg: Major Type: Audio - Sub Type: PCM Format: WaveFormatEx: PCM, 32000 Hertz, 16 Bits, 2 Channels.
+17:45:12 > TBCEnumMediaTypes.Destroy
+17:45:12 > Object: Bass Source Stream, msg: Connection succeeded.
+17:45:12 > Object: Bass Source Stream, msg: Worker thread initializing.
+FactoryCount: 0, ObjectCount: 2.

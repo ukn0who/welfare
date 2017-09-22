@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/6/27 星期二 下午 20:00:00。
+     1>项目“C:\Users\Administrator\Desktop\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MFCApplication1View.cpp
+         MFCApplication1View.cpp
+     1>c:\users\administrator\desktop\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(59): error C2039: “OnMaterial”: 不是“CMFCApplication1View”的成员
+                 c:\users\administrator\desktop\mfcapplication1\mfcapplication1\mfcapplication1view.h(22) : 参见“CMFCApplication1View”的声明
+     1>c:\users\administrator\desktop\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(59): error C2065: “OnMaterial”: 未声明的标识符
+     1>c:\users\administrator\desktop\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(566): error C2297: “/”: 非法，右操作数包含“int *”类型
+     1>c:\users\administrator\desktop\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(596): error C2059: 语法错误:“;”
+     1>已完成生成项目“C:\Users\Administrator\Desktop\MFCApplication1\MFCApplication1\MFCApplication1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.83
